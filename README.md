@@ -15,6 +15,6 @@ Unit Tests done using XCTest Framework.
 
 UI Tests done using XCUITest Framework.
 
-Sonar enabled for Code coverage for UITests and Unit Tests.
+SonarQube enabled for Code coverage for UITests and Unit Tests.
 
 
