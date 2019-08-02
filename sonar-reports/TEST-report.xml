@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='PopularNewsUITests.xctest' tests='6' failures='0'>
+  <testsuite name='PopularNewsTests.PopularNewsTests' tests='4' failures='0'>
+    <testcase classname='PopularNewsTests.PopularNewsTests' name='testDetailController' time='0.041'/>
+    <testcase classname='PopularNewsTests.PopularNewsTests' name='testFetchData' time='1.881'/>
+    <testcase classname='PopularNewsTests.PopularNewsTests' name='testGetAPIResponse' time='1.613'/>
+    <testcase classname='PopularNewsTests.PopularNewsTests' name='testHomeController' time='0.004'/>
+  </testsuite>
+  <testsuite name='PopularNewsUITests.PopularNewsUITests' tests='2' failures='0'>
+    <testcase classname='PopularNewsUITests.PopularNewsUITests' name='testNavigation' time='6.792'/>
+    <testcase classname='PopularNewsUITests.PopularNewsUITests' name='testTableView' time='6.333'/>
+  </testsuite>
+</testsuites>

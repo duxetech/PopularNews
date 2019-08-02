@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.7441860465116279" branch-rate="1.0000000000000000" lines-covered="128" lines-valid="172" branches-covered="0" branches-valid="0" complexity="0.0" timestamp="1564574479" version="Slather 2.4.7">
+  <sources>
+    <source>/Volumes/My Files/xCodeProjects/PopularNews</source>
+  </sources>
+  <packages>
+    <package name="PopularNews" line-rate="0.3913043478260870" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="AppDelegate" filename="PopularNews/AppDelegate.swift" line-rate="0.3913043478260870" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="17" branch="false" hits="1"/>
+            <line number="18" branch="false" hits="1"/>
+            <line number="19" branch="false" hits="1"/>
+            <line number="20" branch="false" hits="1"/>
+            <line number="21" branch="false" hits="1"/>
+            <line number="22" branch="false" hits="1"/>
+            <line number="24" branch="false" hits="0"/>
+            <line number="25" branch="false" hits="0"/>
+            <line number="26" branch="false" hits="0"/>
+            <line number="27" branch="false" hits="0"/>
+            <line number="29" branch="false" hits="0"/>
+            <line number="30" branch="false" hits="0"/>
+            <line number="31" branch="false" hits="0"/>
+            <line number="32" branch="false" hits="0"/>
+            <line number="34" branch="false" hits="0"/>
+            <line number="35" branch="false" hits="0"/>
+            <line number="36" branch="false" hits="0"/>
+            <line number="38" branch="false" hits="1"/>
+            <line number="39" branch="false" hits="1"/>
+            <line number="40" branch="false" hits="1"/>
+            <line number="42" branch="false" hits="0"/>
+            <line number="43" branch="false" hits="0"/>
+            <line number="44" branch="false" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="PopularNews.Controller" line-rate="0.7076923076923077" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="DetailViewController" filename="PopularNews/Controller/DetailViewController.swift" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="15" branch="false" hits="1"/>
+            <line number="16" branch="false" hits="1"/>
+            <line number="17" branch="false" hits="1"/>
+            <line number="18" branch="false" hits="1"/>
+            <line number="19" branch="false" hits="1"/>
+            <line number="20" branch="false" hits="1"/>
+            <line number="26" branch="false" hits="2"/>
+            <line number="27" branch="false" hits="2"/>
+            <line number="28" branch="false" hits="2"/>
+            <line number="29" branch="false" hits="2"/>
+            <line number="31" branch="false" hits="1"/>
+            <line number="32" branch="false" hits="1"/>
+            <line number="33" branch="false" hits="1"/>
+            <line number="34" branch="false" hits="1"/>
+            <line number="35" branch="false" hits="1"/>
+            <line number="36" branch="false" hits="1"/>
+          </lines>
+        </class>
+        <class name="MainViewController" filename="PopularNews/Controller/MainViewController.swift" line-rate="0.6122448979591837" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="19" branch="false" hits="2"/>
+            <line number="20" branch="false" hits="2"/>
+            <line number="21" branch="false" hits="2"/>
+            <line number="22" branch="false" hits="2"/>
+            <line number="23" branch="false" hits="2"/>
+            <line number="24" branch="false" hits="2"/>
+            <line number="25" branch="false" hits="1"/>
+            <line number="26" branch="false" hits="1"/>
+            <line number="27" branch="false" hits="1"/>
+            <line number="28" branch="false" hits="1"/>
+            <line number="29" branch="false" hits="1"/>
+            <line number="30" branch="false" hits="2"/>
+            <line number="31" branch="false" hits="2"/>
+            <line number="38" branch="false" hits="5"/>
+            <line number="39" branch="false" hits="5"/>
+            <line number="40" branch="false" hits="5"/>
+            <line number="41" branch="false" hits="5"/>
+            <line number="42" branch="false" hits="5"/>
+            <line number="43" branch="false" hits="0"/>
+            <line number="44" branch="false" hits="0"/>
+            <line number="45" branch="false" hits="0"/>
+            <line number="46" branch="false" hits="0"/>
+            <line number="48" branch="false" hits="18"/>
+            <line number="49" branch="false" hits="18"/>
+            <line number="50" branch="false" hits="18"/>
+            <line number="51" branch="false" hits="18"/>
+            <line number="52" branch="false" hits="18"/>
+            <line number="53" branch="false" hits="18"/>
+            <line number="54" branch="false" hits="18"/>
+            <line number="55" branch="false" hits="18"/>
+            <line number="56" branch="false" hits="18"/>
+            <line number="58" branch="false" hits="54"/>
+            <line number="59" branch="false" hits="54"/>
+            <line number="60" branch="false" hits="54"/>
+            <line number="62" branch="false" hits="0"/>
+            <line number="63" branch="false" hits="0"/>
+            <line number="64" branch="false" hits="0"/>
+            <line number="65" branch="false" hits="0"/>
+            <line number="66" branch="false" hits="0"/>
+            <line number="67" branch="false" hits="0"/>
+            <line number="68" branch="false" hits="0"/>
+            <line number="69" branch="false" hits="0"/>
+            <line number="70" branch="false" hits="0"/>
+            <line number="71" branch="false" hits="0"/>
+            <line number="72" branch="false" hits="0"/>
+            <line number="76" branch="false" hits="0"/>
+            <line number="77" branch="false" hits="0"/>
+            <line number="78" branch="false" hits="0"/>
+            <line number="79" branch="false" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="PopularNews.Model" line-rate="0.9565217391304348" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="NewData" filename="PopularNews/Model/NewData.swift" line-rate="0.9565217391304348" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="22" branch="false" hits="0"/>
+            <line number="25" branch="false" hits="1"/>
+            <line number="26" branch="false" hits="1"/>
+            <line number="27" branch="false" hits="1"/>
+            <line number="28" branch="false" hits="1"/>
+            <line number="31" branch="false" hits="2"/>
+            <line number="32" branch="false" hits="2"/>
+            <line number="33" branch="false" hits="1"/>
+            <line number="34" branch="false" hits="1"/>
+            <line number="35" branch="false" hits="1"/>
+            <line number="36" branch="false" hits="1"/>
+            <line number="37" branch="false" hits="2"/>
+            <line number="39" branch="false" hits="1"/>
+            <line number="40" branch="false" hits="1"/>
+            <line number="41" branch="false" hits="1"/>
+            <line number="42" branch="false" hits="20"/>
+            <line number="43" branch="false" hits="20"/>
+            <line number="44" branch="false" hits="20"/>
+            <line number="45" branch="false" hits="20"/>
+            <line number="46" branch="false" hits="20"/>
+            <line number="47" branch="false" hits="20"/>
+            <line number="48" branch="false" hits="1"/>
+            <line number="49" branch="false" hits="1"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="PopularNews.View" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="MainTableViewCell" filename="PopularNews/View/MainTableViewCell.swift" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="13" branch="false" hits="18"/>
+            <line number="14" branch="false" hits="18"/>
+            <line number="15" branch="false" hits="18"/>
+            <line number="16" branch="false" hits="18"/>
+            <line number="17" branch="false" hits="18"/>
+            <line number="18" branch="false" hits="18"/>
+            <line number="19" branch="false" hits="18"/>
+            <line number="20" branch="false" hits="18"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="PopularNews.ViewModel" line-rate="0.8113207547169812" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="API" filename="PopularNews/ViewModel/API.swift" line-rate="0.8113207547169812" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="20" branch="false" hits="4"/>
+            <line number="21" branch="false" hits="4"/>
+            <line number="22" branch="false" hits="4"/>
+            <line number="23" branch="false" hits="4"/>
+            <line number="24" branch="false" hits="4"/>
+            <line number="25" branch="false" hits="3"/>
+            <line number="26" branch="false" hits="3"/>
+            <line number="27" branch="false" hits="3"/>
+            <line number="28" branch="false" hits="3"/>
+            <line number="29" branch="false" hits="0"/>
+            <line number="30" branch="false" hits="0"/>
+            <line number="31" branch="false" hits="0"/>
+            <line number="32" branch="false" hits="3"/>
+            <line number="33" branch="false" hits="3"/>
+            <line number="34" branch="false" hits="3"/>
+            <line number="35" branch="false" hits="0"/>
+            <line number="36" branch="false" hits="0"/>
+            <line number="37" branch="false" hits="0"/>
+            <line number="38" branch="false" hits="3"/>
+            <line number="39" branch="false" hits="3"/>
+            <line number="40" branch="false" hits="3"/>
+            <line number="41" branch="false" hits="3"/>
+            <line number="42" branch="false" hits="3"/>
+            <line number="43" branch="false" hits="0"/>
+            <line number="44" branch="false" hits="3"/>
+            <line number="45" branch="false" hits="3"/>
+            <line number="46" branch="false" hits="3"/>
+            <line number="47" branch="false" hits="4"/>
+            <line number="48" branch="false" hits="4"/>
+            <line number="49" branch="false" hits="4"/>
+            <line number="52" branch="false" hits="3"/>
+            <line number="53" branch="false" hits="3"/>
+            <line number="54" branch="false" hits="3"/>
+            <line number="55" branch="false" hits="2"/>
+            <line number="56" branch="false" hits="2"/>
+            <line number="57" branch="false" hits="2"/>
+            <line number="58" branch="false" hits="2"/>
+            <line number="59" branch="false" hits="0"/>
+            <line number="60" branch="false" hits="0"/>
+            <line number="61" branch="false" hits="2"/>
+            <line number="62" branch="false" hits="2"/>
+            <line number="63" branch="false" hits="2"/>
+            <line number="64" branch="false" hits="2"/>
+            <line number="65" branch="false" hits="2"/>
+            <line number="66" branch="false" hits="2"/>
+            <line number="67" branch="false" hits="2"/>
+            <line number="68" branch="false" hits="2"/>
+            <line number="69" branch="false" hits="0"/>
+            <line number="70" branch="false" hits="2"/>
+            <line number="71" branch="false" hits="2"/>
+            <line number="72" branch="false" hits="2"/>
+            <line number="73" branch="false" hits="3"/>
+            <line number="74" branch="false" hits="3"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

@@ -1,0 +1,212 @@
+Analyzing 10 files:
+..........
+
+********** ./PopularNews/AppDelegate.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:17:101: warning: [max-line-length] Line is over maximum character limit (145/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:18:101: warning: [max-line-length] Line is over maximum character limit (107/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:20:99: warning: [colon-whitespace] Colon at column 99 should have exactly one space after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:20:101: warning: [max-line-length] Line is over maximum character limit (113/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:25:101: warning: [max-line-length] Line is over maximum character limit (285/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:26:101: warning: [max-line-length] Line is over maximum character limit (159/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:30:101: warning: [max-line-length] Line is over maximum character limit (218/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:31:101: warning: [max-line-length] Line is over maximum character limit (141/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:35:101: warning: [max-line-length] Line is over maximum character limit (155/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:39:101: warning: [max-line-length] Line is over maximum character limit (194/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:43:101: warning: [max-line-length] Line is over maximum character limit (128/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/AppDelegate.swift:48: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNews/Controller/DetailViewController.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:14:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:19:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:21:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:22:15: warning: [colon-whitespace] Colon at column 15 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:23:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:25:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:26:25: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:28:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:30:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:31:19: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:32:13: warning: [min-name-length] Constant name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:35:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:36:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/DetailViewController.swift:39: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNews/Controller/MainViewController.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:12:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:15:15: warning: [colon-whitespace] Colon at column 15 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:15:17: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:16:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:17:19: warning: [min-name-length] Variable name is less than minimum character limit (2/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:18:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:21:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:23:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:28:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:30:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:32:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:36:26: warning: [colon-whitespace] Colon at column 26 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:37:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:38:77: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:38:85: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:39:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:45:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:47:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:49:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:50:92: warning: [forced-type-cast] Force casts should be avoided
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:50:101: warning: [max-line-length] Line is over maximum character limit (110/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:54:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:57:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:61:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:70:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:71:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:73:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:74:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:75:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:77:13: warning: [min-name-length] Constant name is less than minimum character limit (2/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:77:38: warning: [forced-type-cast] Force casts should be avoided
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:80:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:81:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:82:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:83:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Controller/MainViewController.swift:87: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNews/Model/NewData.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:12:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:13:9: warning: [min-name-length] Constant name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:14:15: warning: [colon-whitespace] Colon at column 15 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:15:18: warning: [colon-whitespace] Colon at column 18 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:16:9: warning: [min-name-length] Variable name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:16:13: warning: [colon-whitespace] Colon at column 13 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:17:14: warning: [colon-whitespace] Colon at column 14 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:18:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:19:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:20:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:21:7: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:22:22: warning: [arrow-whitespace] Return arrow at column 22 should have exactly one space after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:22:22: warning: [arrow-whitespace] Return arrow at column 22 should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:23:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:24:18: warning: [colon-whitespace] Colon at column 18 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:30:7: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:31:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:38:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:39:22: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:48:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:50:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:51:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:52:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/NewData.swift:53:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+
+********** ./PopularNews/Model/News.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:13:13: warning: [colon-whitespace] Colon at column 13 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:14:17: warning: [colon-whitespace] Colon at column 17 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:16:17: warning: [colon-whitespace] Colon at column 17 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:17:9: warning: [min-name-length] Constant name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:17:13: warning: [colon-whitespace] Colon at column 13 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:18:16: warning: [colon-whitespace] Colon at column 16 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:19:15: warning: [colon-whitespace] Colon at column 15 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:20:9: warning: [constant-naming] Global Constant should be either lowerCamelCase or UpperCamelCase
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Model/News.swift:20:24: warning: [colon-whitespace] Colon at column 24 should have no spaces before it
+
+********** ./PopularNews/Other/Constants.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Other/Constants.swift:11:5: warning: [min-name-length] Constant name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/Other/Constants.swift:16: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNews/View/MainTableViewCell.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:12:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:17:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:21:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:23:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:25:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:27:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:28:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:29:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/View/MainTableViewCell.swift:32: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNews/ViewModel/API.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:12:7: warning: [min-name-length] Class name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:17:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:18:7: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:19:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:20:36: warning: [colon-whitespace] Colon at column 36 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:21:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:22:13: warning: [min-name-length] Constant name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:23:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:25:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:26:18: warning: [comma-whitespace] Comma at column 18 should have exactly one space after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:26:27: warning: [comma-whitespace] Comma at column 27 should have exactly one space after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:27:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:30:47: warning: [comma-whitespace] Comma at column 47 should have exactly one space after it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:33:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:48:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:51:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:52:31: warning: [colon-whitespace] Colon at column 31 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:53:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:55:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:57:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:63:16: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:71:12: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:73:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:75:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:76:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNews/ViewModel/API.swift:82: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./PopularNewsTests/PopularNewsTests.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:14:18: warning: [colon-whitespace] Colon at column 18 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:14:20: warning: [min-name-length] Type name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:15:20: warning: [colon-whitespace] Colon at column 20 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:16:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:21:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:23:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:28:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:30:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:31:30: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:32:91: warning: [forced-type-cast] Force casts should be avoided
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:32:101: warning: [max-line-length] Line is over maximum character limit (106/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:33:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:34:11: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:36:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:37:11: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:39:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:41:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:42:32: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:43:93: warning: [forced-type-cast] Force casts should be avoided
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:43:101: warning: [max-line-length] Line is over maximum character limit (114/100)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:44:11: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:47:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:48:11: warning: [comment-whitespace] Single-line comment should start with whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:50:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:52:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:53:30: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:58:16: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:65:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:71:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:72:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:74:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:75:25: warning: [brace-style] Opening brace should have exactly one space before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:77:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:84:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:91:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsTests/PopularNewsTests.swift:92:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+
+********** ./PopularNewsUITests/PopularNewsUITests.swift **********
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:13:9: warning: [min-name-length] Variable name is less than minimum character limit (3/4)
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:13:13: warning: [colon-whitespace] Colon at column 13 should have no spaces before it
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:14:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:20:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:24:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:25:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:27:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:29:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:34:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:36:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:38:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:43:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:44:8: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:46:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:47:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Volumes/My Files/xCodeProjects/PopularNews/PopularNewsUITests/PopularNewsUITests.swift:48:3: warning: [trailing-whitespace] Line should not have any trailing whitespace
+
+Analyzed 10 files, skipped 0 files, and detected 187 violations (0 errors, 187 warnings).
+

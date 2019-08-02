@@ -1,0 +1,6 @@
+projectKey=com.duxetech.app
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/com.duxetech.app
+ceTaskId=AWxH6Br6ugZyY2qLnjvb
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWxH6Br6ugZyY2qLnjvb
