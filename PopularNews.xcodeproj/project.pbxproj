@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25AFCF772301B46600628377 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AFCF762301B46600628377 /* Helper.swift */; };
 		25D30BA322F18FFF003A916C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D30BA222F18FFF003A916C /* AppDelegate.swift */; };
 		25D30BA822F18FFF003A916C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25D30BA622F18FFF003A916C /* Main.storyboard */; };
 		25D30BAA22F19000003A916C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25D30BA922F19000003A916C /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		25AFCF762301B46600628377 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		25D30B9F22F18FFF003A916C /* PopularNews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopularNews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25D30BA222F18FFF003A916C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25D30BA722F18FFF003A916C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 			children = (
 				25D30BD422F190E9003A916C /* API.swift */,
 				25D30BD622F19124003A916C /* NewData.swift */,
+				25AFCF762301B46600628377 /* Helper.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 				25D30BD522F190E9003A916C /* API.swift in Sources */,
 				25D30BA322F18FFF003A916C /* AppDelegate.swift in Sources */,
 				25D30BDA22F19176003A916C /* MainTableViewCell.swift in Sources */,
+				25AFCF772301B46600628377 /* Helper.swift in Sources */,
 				25D30BD722F19124003A916C /* NewData.swift in Sources */,
 				25D30BDF22F19230003A916C /* DetailViewController.swift in Sources */,
 				25D30BE222F192A4003A916C /* Constants.swift in Sources */,

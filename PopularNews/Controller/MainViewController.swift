@@ -13,21 +13,22 @@ class MainController: UIViewController {
     
     let news = NewsData()
     var index : Int?
-    
+    let helper = Helper()
     @IBOutlet var tv: UITableView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         news.getData()
-        
+        helper.loadInd(vc: self)
+        helper.showActIndicator()
         news.reload = { [weak self] in
             DispatchQueue.main.async {
                 self!.tv.reloadData()
+                self!.helper.stop()
             }
-            
         }
-        
+
     }
     
 }

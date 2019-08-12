@@ -51,7 +51,7 @@ class PopularNewsTests: XCTestCase {
     }
     
     func testGetAPIResponse(){
-        let expect = expectation(description: "call to API client and response")
+        let expect = expectation(description: "De")
         newsTest.getAPIResponse {
             data, response, error in
             DispatchQueue.main.async {
